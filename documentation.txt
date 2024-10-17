@@ -1,0 +1,4 @@
+1. The API runs on http://127.0.0.1:5000/
+2. to access the random- dish visit http://127.0.0.1:5000/random-dish
+3. to access the dishes by category visit http://127.0.0.1:5000/dish/main-course or http://127.0.0.1:5000/dish/dessert
+4. to access the anmes of all the dishes visit http://127.0.0.1:5000/dishes
